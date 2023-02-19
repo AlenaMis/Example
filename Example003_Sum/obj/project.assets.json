@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example003_Sum\\Example003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example003_Sum\\Example003_Sum.csproj",
       "projectName": "Example003_Sum",
-      "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example003_Sum\\Example003_Sum.csproj",
+      "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example003_Sum\\Example003_Sum.csproj",
       "packagesPath": "C:\\Users\\Наш компьютер\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example003_Sum\\obj\\",
+      "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Наш компьютер\\AppData\\Roaming\\NuGet\\NuGet.Config",
