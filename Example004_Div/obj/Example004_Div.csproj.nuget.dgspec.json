@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example004_Div\\Example004_Div.csproj": {}
+    "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example004_Div\\Example004_Div.csproj": {
+    "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example004_Div\\Example004_Div.csproj",
+        "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example004_Div\\Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example004_Div\\Example004_Div.csproj",
+        "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\Наш компьютер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example004_Div\\obj\\",
+        "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Наш компьютер\\AppData\\Roaming\\NuGet\\NuGet.Config",
