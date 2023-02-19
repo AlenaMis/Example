@@ -13,3 +13,18 @@ C:\Users\Наш компьютер\Desktop\Лекция_08.02.2023\Example002_He
 C:\Users\Наш компьютер\Desktop\Лекция_08.02.2023\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
 C:\Users\Наш компьютер\Desktop\Лекция_08.02.2023\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
 C:\Users\Наш компьютер\Desktop\Лекция_08.02.2023\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\Наш компьютер\Desktop\Знакомство с языками программирования С#\Лекции C#\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll

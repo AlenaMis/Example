@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujwrLWXu3EQGLeKDu0XFvBjMQ7nGqFJWdy1lxXBcHAWhJz2coOQKMpp9iDFxb5WAAY+IUe2Dqcd1mmuawZV8zQ==",
+  "dgSpecHash": "Ed3E8hPbUo+/MaKuo9KsqCjwcqexbWR+5hXZPc955KRxuXsiJnoyV49tF7JPHlkoadH0vseO2GyJIPulPvrFyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example002_HelloUser\\Example002_HelloUser.csproj",
+  "projectFilePath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example002_HelloUser\\Example002_HelloUser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
