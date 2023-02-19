@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Наш компьютер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Лекция_08.02.2023\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\Наш компьютер\\Desktop\\Знакомство с языками программирования С#\\Лекции C#\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Наш компьютер\\AppData\\Roaming\\NuGet\\NuGet.Config",
